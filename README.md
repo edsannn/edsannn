@@ -1,20 +1,35 @@
-# Opa! Bão!? 👋
+<p align="left">
+ <a href="mailto:edson.santos.las@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:edson.santos.las@gmail.com" /></a>
 
-[![Contact Us](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmo.edson@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-santos-112560224/)
+<a href="https://www.linkedin.com/in/edson-santos-112560224/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edson-santos-112560224/" /></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edsannn&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsannn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Tecnologias que utilizo no dia a dia
-
-<div style="display: inline_block"></br>
-    <img align = "center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-    <img align = "center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img align = "center" alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img align = "center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-    <img align = "center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align = "center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-
+<a href="https://api.whatsapp.com/send?phone=5577981607141&text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20GitHub!" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5577981607141&text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20GitHub!" /></a>
     
-   
+## Hello World! 👋
+<img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?fit=1281%2C716&ssl=1" />
+
+
+
+        
+```java
+import Edsannn.Desenvolvedor;
+
+public class SobreMim extends Desenvolvedor {
+  private String nome = "Edson";
+  private String stack = "Desenvolvedor Back-end";
+  private String[] languages = {"Português", "Inglês"};
+}
+
+public class Skills extends Desenvolvedor {
+  private String[] linguagens = {"Java"};
+  private String[] databases = {"SQL", "NoSQL"};
+  private String[] ides = {"IntelliJ", "Eclipse"};
+  private String[] frameworks = {"Spring Framework", "Hibernate"};
+  private String[] ferramentas = {"PostgreSQL", "MySQL", "MongoDB", "Git", "Docker"};
+}
+```
+
 </div> <br>
