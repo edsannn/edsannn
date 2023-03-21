@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5577981607141&text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20GitHub!" /></a>
     
 ## Hello World! 👋
-<img align="right" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?fit=1281%2C716&ssl=1" />
 
 
 
