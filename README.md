@@ -20,7 +20,7 @@ import Edsannn.Desenvolvedor;
 public class SobreMim extends Desenvolvedor {
   private String nome = "Edson";
   private String stack = "Desenvolvedor Back-end";
-  private String[] languages = {"Português", "Inglês"};
+  private String[] idiomas = {"Português", "Inglês"};
 }
 
 public class Skills extends Desenvolvedor {
