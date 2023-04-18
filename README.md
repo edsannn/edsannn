@@ -10,9 +10,6 @@
     
 ## Hello World! 👋
 <img align="right" width="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?fit=1281%2C716&ssl=1" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsannn&layout=compact&theme=omni">
-
-
         
 ```java
 import Edsannn.Desenvolvedor;
@@ -32,3 +29,5 @@ public class Skills extends Desenvolvedor {
 }
 ```
 </div> <br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsannn&layout=compact&theme=omni">
