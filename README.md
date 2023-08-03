@@ -16,15 +16,15 @@ import Edsannn.Desenvolvedor;
 
 public class SobreMim extends Desenvolvedor {
   private String nome = "Edson";
-  private String stack = "Desenvolvedor Back-end";
+  private String stack = "Estudante Desenvolvedor Back-end";
   private String[] idiomas = {"Português", "Inglês"};
 }
 
 public class Skills extends Desenvolvedor {
-  private String[] linguagens = {"Java"};
+  private String[] linguagens = {"Java, Python"};
   private String[] databases = {"SQL", "NoSQL"};
-  private String[] ides = {"IntelliJ", "Eclipse"};
-  private String[] frameworks = {"Spring Framework", "Hibernate"};
+  private String[] ides = {"VSCode, IntelliJ", "Eclipse"};
+  private String[] frameworks = {"Django, Spring Framework", "Hibernate"};
   private String[] ferramentas = {"PostgreSQL", "MySQL", "MongoDB", "Git", "Docker"};
 }
 ```
