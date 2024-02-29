@@ -16,7 +16,7 @@ import Edsannn.Desenvolvedor;
 
 public class SobreMim extends Desenvolvedor {
   private String nome = "Edson";
-  private String stack = "Estudante Desenvolvedor Back-end";
+  private String stack = "Desenvolvedor de Software";
   private String[] idiomas = {"Português", "Inglês"};
 }
 
@@ -25,7 +25,7 @@ public class Skills extends Desenvolvedor {
   private String[] databases = {"SQL", "NoSQL"};
   private String[] ides = {"VSCode, IntelliJ", "Eclipse"};
   private String[] frameworks = {"Django, Spring Framework", "Hibernate"};
-  private String[] ferramentas = {"PostgreSQL", "MySQL", "MongoDB", "Git", "Docker"};
+  private String[] ferramentas = {"PostgreSQL", "SQL Server", "MongoDB", "Git", "Docker"};
 }
 ```
 </div> <br>
